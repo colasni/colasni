@@ -12,6 +12,8 @@
       alt="instagram" height="30" width="40" /></a>
 </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -57,8 +59,9 @@
       height="40" /> 
   </a>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=colasni&theme=juicyfresh&no-bg=true" />
+<br>
+<br>
+<img width="1100"  src="https://github-profile-trophy.vercel.app/?username=colasni&theme=juicyfresh&no-bg=true" />
 
 
 
