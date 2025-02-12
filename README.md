@@ -10,6 +10,9 @@
   <a href="https://www.instagram.com/keicer_yt/?next=%2F" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@keicer4045" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="YouTube" height= "30" width= "40" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
